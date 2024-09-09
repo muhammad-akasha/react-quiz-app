@@ -3,6 +3,19 @@
 @tailwind utilities;
 
 body {
-  background-color: #e9e6f7;
+  background-color: #3a1078;
   height: 100vh;
+}
+
+.quiz-sec {
+  background: #4e31aa;
+  width: 700px;
+  margin: auto;
+  color: #fff;
+  margin-top: 50px;
+}
+
+.result-sec {
+  background: #4e31aa;
+  color: #fff;
 }
